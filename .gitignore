@@ -1,0 +1,28 @@
+# Visual Studio cache
+.vs/
+*.ipch
+*.user
+*.suo
+*.log
+*.tlog
+*.obj
+*.pdb
+*.cache
+*.db
+*.sqlite
+
+# Build folders
+x64/
+Debug/
+Release/
+bin/
+build/
+
+# Artifacts
+*.exe
+*.dll
+*.lib
+*.ilk
+
+# ZIP files
+*.zip

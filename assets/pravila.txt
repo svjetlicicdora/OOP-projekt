@@ -1,0 +1,27 @@
+King of Tokyo
+Pobijediti možeš na dva načina:
+* prvi do 20 pobjedničkih bodova ili da ostaneš posljednji preživjeli igrač.
+Pravila igre
+1. Bacanje kockica 
+Svaki igrač u svom potezu baca 6 kockica.
+Možeš bacati do tri puta, svaki put birajući koje kocke želiš zadržati.
+Na kockama se mogu pojaviti sljedeći simboli:
+* 1, 2, 3 – skupljaj setove za pobjedničke bodove
+* Srce – liječiš se (osim ako si u Tokyju)
+* Munja – dobivaš energiju za kupnju kartica
+* Šapa  – napadaš protivnike
+Ulazak u Tokyo i borba za grad
+* Prvi igrač ulazi u Tokyo.
+* Igrač u Tokyju napada sve ostale odjednom.
+* Igrači izvan Tokyja napadaju samo igrača u Tokyju.
+Prednosti boravka u Tokyju:
+* Dobivaš 1 pobjednički bod kad uđeš.
+* Dobivaš 2 pobjednička boda na početku svakog svog poteza dok si unutra.
+Nedostatak:
+* Ne možeš se liječiti dok si u Tokyju.
+* Svi te napadaju.
+Ako te netko napadne, možeš napustiti Tokyo i prepustiti ga napadaču.
+3. Energija služi za kupovinu power-up kartica.
+ Život i eliminacija
+Svaki igrač počinje s 10 života.
+Ako padneš na 0 — ispadaš iz igre
